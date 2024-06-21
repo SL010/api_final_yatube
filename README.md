@@ -56,3 +56,13 @@ python3 manage.py runserver
 Прочесть документацию к API проекта Yatube (v1) http://127.0.0.1:8000/redoc/
 ```
 
+Установить основные библиотеки
+Django==3.2.16
+djangorestframework==3.12.4
+djangorestframework-simplejwt==4.7.2
+```
+
+Автор: [Борисов Вячеслав]
+(https://github.com/SL010)
+Почта: borisov.slava00@yandex.ru
+
